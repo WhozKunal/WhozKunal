@@ -59,7 +59,7 @@ Analytical, motivated, and hard-working Python Developer with extensive experien
 - Maintained various AWS services like S3, SES, and Route53.
 
 ## Education
-- **B.Tech in Information & Technology**, Gujarat, India
+- **BCA in Information & Technology**, Gujarat, India
 
 ## Connect with me
 - [LinkedIn](https://www.linkedin.com/in/itskunal/)
